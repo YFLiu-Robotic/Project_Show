@@ -1,6 +1,6 @@
 # 展示了简历中的三个项目
 ## 基于Issac gym的机械臂抓取强化学习项目复现
-主要内容如下：（具体见xxxx）
+主要内容如下：（[查看目录](src/)）
 1. 基于 Isaac Gym 平台，采用 PPO 算法训练 Franka Emika Panda 机械臂完成立方体抓取与堆叠任务。 xxxx
 2. 通过设计多阶段奖励函数，引导策略逐步学习并掌握复杂操作行为，同时利用 GPU 并行环境显著加速训练过程。  xxxxx
 3. 负责仿真环境搭建、资产加载（机械臂臂、桌面、立方体）、PPO超参数设计（horizon length、learning rate、KL target等）、训练监控与结果可视化    xxxx
